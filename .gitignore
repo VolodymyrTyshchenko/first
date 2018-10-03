@@ -1,4 +1,5 @@
 .*
 !.gitignore
+/build
 /node_modules
 /yarn.lock
